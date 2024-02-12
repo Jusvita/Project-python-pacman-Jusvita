@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T04:44:51.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.2" etag="gf0bRjYx9sMj8VRsK_GD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T05:48:23.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fj9Nu5_C0GDqhKUH31MB" version="23.1.2" type="github">
   <diagram name="Halaman-1" id="sGjm4Od8pGnF-seUHSu9">
-    <mxGraphModel>
+    <mxGraphModel dx="1920" dy="910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dJPWPNYDly5iEPzZPAee-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-1" target="dJPWPNYDly5iEPzZPAee-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-354.99" y="-43" width="62" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-2" target="dJPWPNYDly5iEPzZPAee-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Identifikasi Masalah&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="19" width="156" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-3" target="dJPWPNYDly5iEPzZPAee-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Studi Literatur&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="58" width="156" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-4" target="dJPWPNYDly5iEPzZPAee-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Setup Loop Heat Pipe&amp;nbsp;&lt;/i&gt;(LHP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430.5" y="99" width="213" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-8" target="dJPWPNYDly5iEPzZPAee-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Perancangan Sensor Pendeteksi Kecepatan Udara berbasis arduino&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-461.62" y="138" width="275.25" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-9" target="dJPWPNYDly5iEPzZPAee-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Kalibrasi Sensor Pendeteksi Kecepatan Udara&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430.5" y="196" width="213" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-10" target="dJPWPNYDly5iEPzZPAee-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Integrasi &lt;i&gt;Software &lt;/i&gt;Pemantau&amp;nbsp;Kecepatan Udara &lt;i&gt;Real-Time&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-470.75" y="250" width="293.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-11" target="dJPWPNYDly5iEPzZPAee-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Persiapan Eksperimen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430.5" y="308" width="213" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-12" target="dJPWPNYDly5iEPzZPAee-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pembuatan Matriks Eksperimen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-440.24" y="349" width="232.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-13" target="dJPWPNYDly5iEPzZPAee-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pelaksanaan Eksperimen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-440.25" y="388" width="232.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-14" target="dJPWPNYDly5iEPzZPAee-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pengolahan dan Analisis Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-440.25" y="427" width="232.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dJPWPNYDly5iEPzZPAee-15" target="dJPWPNYDly5iEPzZPAee-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Hasil dan Kesimpulan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-440.25" y="467" width="232.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dJPWPNYDly5iEPzZPAee-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="507" width="62" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
